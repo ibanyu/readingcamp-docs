@@ -1,4 +1,23 @@
 
 :root {
-    --header-background: #5694FF;
+    --header-background: #5694ff;
 }
+
+:root[color-mode="light"] {
+    --header-background: #5694ff;
+}
+@media (prefers-color-scheme: light) {
+    :root {
+        --header-background: #5694ff;
+    }
+}
+
+:root[color-mode="dark"] {
+    --header-background: #5694ff;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+      --header-background: #5694ff;
+  }
+}
+

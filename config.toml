@@ -13,7 +13,6 @@ disablePathToLower = true
 enableRobotsTXT = true
 
 defaultContentLanguage = 'zh'
-geekdocDefaultThemeSelection = 'light'
 
 # Needed for mermaid shortcodes
 [markup]
