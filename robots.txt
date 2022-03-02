@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /tags/*
+
+Sitemap: https://ibanyu.github.io/readme-docs/sitemap.xml
