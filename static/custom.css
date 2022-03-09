@@ -5,10 +5,13 @@
 
 :root[color-mode="light"] {
     --header-background: #5694ff;
+    --footer-background: #ffffff;
+}
 }
 @media (prefers-color-scheme: light) {
     :root {
         --header-background: #5694ff;
+        --footer-background: #ffffff;
     }
 }
 
