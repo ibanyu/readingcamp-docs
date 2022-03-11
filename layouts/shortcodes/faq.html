@@ -1,0 +1,10 @@
+<div {{ with .Get "id" }} id={{ . }} {{ end }}>
+    <h3>
+        {{ with .Get "title" }}
+            ❝ {{ . }}
+        {{ end }}
+    </h3>
+    <div>
+        {{ .Inner | markdownify }}
+    </div>
+</div>
