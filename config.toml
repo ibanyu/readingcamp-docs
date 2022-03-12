@@ -1,5 +1,5 @@
 baseURL = "https://ibanyu.github.io/readme-docs"
-title = "读我"
+title = "「读我」App"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
