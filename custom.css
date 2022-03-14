@@ -1,6 +1,7 @@
 
 :root {
     --header-background: #5694ff;
+    --footer-background: #ffffff;
 }
 
 :root[color-mode="light"] {
