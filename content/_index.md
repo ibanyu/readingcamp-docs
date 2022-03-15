@@ -50,7 +50,7 @@
 
 ### 微信反馈群
 
-<img src="https://readme.cdn.ipalfish.com/hz/readme/materials/b7/83/bee5359f500d915018d7ce8ec6e1" alt="feedback-wechat-group" width=300 />
+<img src="https://hangzhoureadme.oss-cn-hangzhou.aliyuncs.com/hz/readme/materials/b7/83/bee5359f500d915018d7ce8ec6e1" alt="feedback-wechat-group" width=300 />
 
 ### 电子邮件
 
