@@ -1,3 +1,1 @@
-# Readme Docs
-
-docs of the Readme App
+# 「读我」App 使用手册
