@@ -25,3 +25,6 @@ defaultContentLanguage = 'zh'
 
 [taxonomies]
    tag = "tags"
+
+[params]
+  geekdocSearch = false

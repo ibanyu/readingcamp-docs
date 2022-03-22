@@ -2,27 +2,32 @@
 :root {
     --header-background: #5694ff;
     --footer-background: #5694ff;
+    --footer-link-color: white;
 }
 
 :root[color-mode="light"] {
     --header-background: #5694ff;
     --footer-background: #5694ff;
+    --footer-link-color: white;
 }
 @media (prefers-color-scheme: light) {
     :root {
         --header-background: #5694ff;
         --footer-background: #5694ff;
+        --footer-link-color: white;
     }
 }
 
 :root[color-mode="dark"] {
     --header-background: #5694ff;
     --footer-background: #5694ff;
+    --footer-link-color: white;
 }
 @media (prefers-color-scheme: dark) {
   :root {
       --header-background: #5694ff;
       --footer-background: #5694ff;
+      --footer-link-color: white;
   }
 }
 
