@@ -1,4 +1,4 @@
-baseURL = "https://ibanyu.github.io/readme-docs"
+baseURL = "https://ibanyu.github.io/readingcamp-docs"
 title = "「读我」App"
 theme = "hugo-geekdoc"
 
