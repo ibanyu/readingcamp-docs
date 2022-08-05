@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: /tags/*
 
-Sitemap: https://ibanyu.github.io/readme-docs/sitemap.xml
+Sitemap: https://ibanyu.github.io/readingcamp-docs/sitemap.xml
