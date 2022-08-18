@@ -1,5 +1,5 @@
 baseURL = "https://ibanyu.github.io/readingcamp-docs"
-title = "「伴鱼阅读营」App"
+title = "「Tina阅读营」（伴鱼阅读营）"
 theme = "hugo-geekdoc"
 
 pluralizeListTitles = false
