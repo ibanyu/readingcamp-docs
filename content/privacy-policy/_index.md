@@ -173,7 +173,7 @@ weight: 100
 
   官网链接：https://openhome.alipay.com/docCenter/docCenter.htm
 
- 
+
 * GreenrobotEventBus
 
   SDK使用目的：简化组件的通讯，使代码更加简洁
@@ -189,7 +189,7 @@ weight: 100
   官网链接：https://greenrobot.org/eventbus/
 
 
-* oaid-sdk
+* oaid-sdk(com.bun仅安卓)
 
   SDK使用目的：广告跟踪服务的一种替代方案，避免广告流量的损失
 
