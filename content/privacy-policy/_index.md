@@ -125,7 +125,7 @@ weight: 100
 
   SDK使用场景：统计应用新增用户，活跃用户，启动次数，累计用户等数据
 
-  SDK个人信息字段：唯一设备识别码（Android_ID/IDFV/OPENUDID/GUID、SIM 卡 IMSI 信息，SD卡数据信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。
+  SDK个人信息字段：唯一设备识别码（Android_ID/IDFV/OPENUDID/GUID、SIM 卡 IMSI 信息，SDCard信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。
 
   第三方机构名称：阿里云计算有限公司
 
